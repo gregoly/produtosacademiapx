@@ -1,5 +1,3 @@
-// Cole somente a URL pública /exec da implantação do Google Apps Script.
-// Não coloque senhas, tokens ou dados pessoais neste arquivo: ele será público.
 window.OKR_CONFIG = {
-  appsScriptUrl: ''
+  appsScriptUrl: 'https://script.google.com/macros/s/AKfycbzYHmJ1GmWeTlEW9SbS6KeIEy_SpzrICb4rvuIvj23lqC-WyYWMrp1IoJFeJXp8E79b/exec'
 };
